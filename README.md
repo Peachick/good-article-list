@@ -11,3 +11,6 @@ get some good articels and code etc.
 
 ## babel
 1. [https://github.com/Peachick/babel-handbook](https://github.com/Peachick/babel-handbook)
+
+## Git
+1. [Git权威指南](http://www.worldhello.net/gotgit/)
