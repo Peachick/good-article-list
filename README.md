@@ -15,3 +15,6 @@ get some good articels and code etc.
 
 ## Git
 1. [Git权威指南](http://www.worldhello.net/gotgit/)
+
+## 前端错误监控
+1. [小胡子哥](https://www.cnblogs.com/hustskyking/p/fe-monitor.html)
