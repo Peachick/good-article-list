@@ -14,7 +14,8 @@ get some good articels and code etc.
 1. [https://github.com/Peachick/babel-handbook](https://github.com/Peachick/babel-handbook)
 
 ## Git
-1. [Git权威指南](http://www.worldhello.net/gotgit/)
+1. [官方文档](https://git-scm.com/book/zh/v2)
+2. [Git权威指南](http://www.worldhello.net/gotgit/)
 
 ## 前端错误监控
 1. [小胡子哥](https://www.cnblogs.com/hustskyking/p/fe-monitor.html)
