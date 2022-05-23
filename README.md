@@ -12,7 +12,8 @@ get some good articels and code etc.
 1. [https://github.com/wangdicoder/tiny-ui](https://github.com/wangdicoder/tiny-ui)
 
 ## CSS
-1. [关于css animation steps属性](https://www.zhangxinxu.com/wordpress/2018/06/css3-animation-steps-step-start-end/)
+1. [精通css高级Web标准解决方案](https://item.jd.com/12550434.html)
+2. [关于css animation steps属性](https://www.zhangxinxu.com/wordpress/2018/06/css3-animation-steps-step-start-end/)
 
 ## babel
 1. [https://github.com/Peachick/babel-handbook](https://github.com/Peachick/babel-handbook)
