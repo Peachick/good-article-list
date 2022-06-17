@@ -28,3 +28,6 @@ get some good articels and code etc.
 ## Docker
 1. [Docker官方文档](https://docs.docker.com)
 2. [Docker从入门到实践](https://yeasy.gitbook.io/docker_practice)
+
+## k8s
+1. [一步步部署k8s](https://k8s-install.opsnull.com)
