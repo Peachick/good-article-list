@@ -31,3 +31,6 @@ get some good articels and code etc.
 
 ## k8s
 1. [一步步部署k8s](https://k8s-install.opsnull.com)
+
+## Nginx
+1. [nginx看这一篇就够了](https://dunwu.github.io/nginx-tutorial)
